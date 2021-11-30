@@ -1,0 +1,3 @@
+C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\Debug\my_blatant_project.vcxproj.AssemblyReference.cache
+C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\Debug\myblatantproject.MyForm.resources
+C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\Debug\my_blatant_project.vcxproj.GenerateResource.cache
