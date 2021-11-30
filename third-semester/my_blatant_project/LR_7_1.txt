@@ -1,0 +1,128 @@
+Circle:
+	x = -1.48778, y = 44.9919
+	Radius: 88.9983
+
+Rectangle:
+	x = 191.221, y = -130.215
+	Widht: 56.7191
+	Hight: 19.8746
+
+Circle:
+	x = 154.05, y = 45.8159
+	Radius: 16.0015
+
+Circle:
+	x = 62.1433, y = 65.9429
+	Radius: 25.0807
+
+Circle:
+	x = -136.639, y = -26.635
+	Radius: 20.2839
+
+Circle:
+	x = -174.574, y = -181.745
+	Radius: 20.8846
+
+Rectangle:
+	x = -144.94, y = -44.4273
+	Widht: 89.5813
+	Hight: 38.8772
+
+Circle:
+	x = -107.158, y = -201.827
+	Radius: 48.8883
+
+Circle:
+	x = 134.533, y = -117.58
+	Radius: 115.029
+
+Rectangle:
+	x = -235.519, y = 20.2872
+	Widht: 6.6447
+	Hight: 3.08056
+
+Rectangle:
+	x = -24.5293, y = -188.627
+	Widht: 155.602
+	Hight: 25.977
+
+Circle:
+	x = -170.026, y = 42.9167
+	Radius: 4.61953
+
+Circle:
+	x = 249.573, y = 111.553
+	Radius: 1.22038
+
+Rectangle:
+	x = 153.638, y = -165.494
+	Widht: 76.9533
+	Hight: 74.596
+
+Rectangle:
+	x = -206.145, y = 84.6049
+	Widht: 16.752
+	Hight: 3.35156
+
+Circle:
+	x = -177.763, y = 233.032
+	Radius: 4.47941
+
+Rectangle:
+	x = 103.145, y = 230.575
+	Widht: 103.789
+	Hight: 137.694
+
+Rectangle:
+	x = 90.3882, y = -35.2107
+	Widht: 151.126
+	Hight: 48.9945
+
+Circle:
+	x = -69.6966, y = -100.993
+	Radius: 113.436
+
+Rectangle:
+	x = 178.8, y = -209.212
+	Widht: 11.7826
+	Hight: 40.3386
+
+Circle:
+	x = 106.655, y = -160.031
+	Radius: 4.25366
+
+Rectangle:
+	x = 75.6478, y = 35.0581
+	Widht: 9.52292
+	Hight: 66.7709
+
+Rectangle:
+	x = -105.327, y = 246.628
+	Widht: 88.9656
+	Hight: 24.0196
+
+Circle:
+	x = -86.8023, y = 206.862
+	Radius: 40.1199
+
+Circle:
+	x = -137.844, y = -113.613
+	Radius: 37.6071
+
+Rectangle:
+	x = 213.469, y = -101.573
+	Widht: 20.645
+	Hight: 28.796
+
+Circle:
+	x = -49.7375, y = -217.483
+	Radius: 9.57817
+
+Circle:
+	x = 215.148, y = -228.927
+	Radius: 19.5109
+
+
+Total rectangles: 41
+
+Total circles: 43

@@ -1,0 +1,65 @@
+List<string>
+
+Doubly Linked List Values : (zero: Aa) <=> (one: Bb) <=> (two: Cc) <=> (three: Dd) <=> (four: Ee) <=> (five: Ff) <=> (six: Gg) <=> (seven: Hh) <=> (eight: Ii) <=> (nine: Jj) <=> (ten: Kk) <=> 
+
+Doubly Linked List Values : (zero: Aa) <=> (one: Bb) <=> (two: Cc) <=> (four: Ee) <=> (five: Ff) <=> (six: Gg) <=> (seven: Hh) <=> (eight: Ii) <=> (nine: Jj) <=> (ten: Kk) <=> 
+
+
+List<int>
+
+Doubly Linked List Values : (0: 0) <=> (1: 1) <=> (2: 8) <=> (3: 27) <=> (4: 64) <=> (5: 125) <=> (6: 216) <=> (7: 343) <=> (8: 512) <=> (9: 729) <=> (10: 1000) <=> 
+
+Doubly Linked List Values : (0: 0) <=> (1: 1) <=> (2: 8) <=> (4: 64) <=> (5: 125) <=> (6: 216) <=> (7: 343) <=> (8: 512) <=> (9: 729) <=> (10: 1000) <=> 
+
+
+List<double>
+
+Doubly Linked List Values : (0: 0) <=> (1: 3.14) <=> (2: 6.28) <=> (3: 9.42) <=> (4: 12.56) <=> (5: 15.7) <=> (6: 18.84) <=> (7: 21.98) <=> (8: 25.12) <=> (9: 28.26) <=> (10: 31.4) <=> 
+
+Doubly Linked List Values : (0: 0) <=> (1: 3.14) <=> (2: 6.28) <=> (3: 9.42) <=> (4: 12.56) <=> (5: 15.7) <=> (6: 18.84) <=> (7: 21.98) <=> (8: 25.12) <=> (9: 28.26) <=> (10: 31.4) <=> 
+
+
+
+
+Queue<string>
+
+myQueue Values: (zero: Aa) <=> (one: Bb) <=> (two: Cc) <=> (three: Dd) <=> (four: Ee) <=> (five: Ff) <=> (six: Gg) <=> (seven: Hh) <=> (eight: Ii) <=> (nine: Jj) <=> (ten: Kk) <=> 
+
+myQueue Values: (four: Ee) <=> (five: Ff) <=> (six: Gg) <=> (seven: Hh) <=> (eight: Ii) <=> (nine: Jj) <=> (ten: Kk) <=> 
+
+
+Queue<int>
+
+myQueue Values: (0: 0) <=> (1: 1) <=> (2: 8) <=> (3: 27) <=> (4: 64) <=> (5: 125) <=> (6: 216) <=> (7: 343) <=> (8: 512) <=> (9: 729) <=> (10: 1000) <=> 
+
+myQueue Values: (4: 64) <=> (5: 125) <=> (6: 216) <=> (7: 343) <=> (8: 512) <=> (9: 729) <=> (10: 1000) <=> 
+
+
+Queue<double>
+
+myQueue Values: (0: 0) <=> (1: 3.14) <=> (2: 6.28) <=> (3: 9.42) <=> (4: 12.56) <=> (5: 15.7) <=> (6: 18.84) <=> (7: 21.98) <=> (8: 25.12) <=> (9: 28.26) <=> (10: 31.4) <=> 
+
+myQueue Values: (4: 12.56) <=> (5: 15.7) <=> (6: 18.84) <=> (7: 21.98) <=> (8: 25.12) <=> (9: 28.26) <=> (10: 31.4) <=> 
+
+
+
+
+Stack<string>
+
+myStack Values: (zero: Aa) <=> (one: Bb) <=> (two: Cc) <=> (three: Dd) <=> (four: Ee) <=> (five: Ff) <=> (six: Gg) <=> (seven: Hh) <=> (eight: Ii) <=> (nine: Jj) <=> (ten: Kk) <=> 
+
+myStack Values: (zero: Aa) <=> (one: Bb) <=> (two: Cc) <=> 
+
+
+Stack<int>
+
+myStack Values: (0: 0) <=> (1: 1) <=> (2: 8) <=> (3: 27) <=> (4: 64) <=> (5: 125) <=> (6: 216) <=> (7: 343) <=> (8: 512) <=> (9: 729) <=> (10: 1000) <=> 
+
+myStack Values: (0: 0) <=> (1: 1) <=> (2: 8) <=> 
+
+
+Stack<double>
+
+myStack Values: (0: 0) <=> (1: 3.14) <=> (2: 6.28) <=> (3: 9.42) <=> (4: 12.56) <=> (5: 15.7) <=> (6: 18.84) <=> (7: 21.98) <=> (8: 25.12) <=> (9: 28.26) <=> (10: 31.4) <=> 
+
+myStack Values: (0: 0) <=> (1: 3.14) <=> (2: 6.28) <=> 
