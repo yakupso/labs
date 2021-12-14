@@ -1,0 +1,1946 @@
+Number of objects: 269
+
+Star #0:
+	Mass: 1.98899e+30
+
+	Velocities: Vx = -16.3891 Vy = 14.3365
+
+	Coordinates: X = -7.95699e+08 Y = 2.97129e+08
+
+Star #1: DESTROYED
+
+Star #2:
+	Mass: 2.38968e+23
+
+	Velocities: Vx = 6042.86 Vy = -14549.6
+
+	Coordinates: X = 4.90342e+11 Y = 2.05928e+11
+
+Star #3:
+	Mass: 3.58452e+23
+
+	Velocities: Vx = -12405.6 Vy = -6454.61
+
+	Coordinates: X = 3.13937e+11 Y = -6.02106e+11
+
+Star #4:
+	Mass: 4.77936e+23
+
+	Velocities: Vx = -3546.09 Vy = -12156.9
+
+	Coordinates: X = 7.9744e+11 Y = -2.34227e+11
+
+Star #5:
+	Mass: 5.9742e+23
+
+	Velocities: Vx = -8450.74 Vy = -11251.1
+
+	Coordinates: X = 5.36622e+11 Y = -4.02816e+11
+
+Star #6:
+	Mass: 7.16904e+23
+
+	Velocities: Vx = 4259.09 Vy = 17352.1
+
+	Coordinates: X = -4.05135e+11 Y = 9.87065e+10
+
+Star #7:
+	Mass: 8.36388e+23
+
+	Velocities: Vx = 3965.06 Vy = 11897.9
+
+	Coordinates: X = -8.02808e+11 Y = 2.66139e+11
+
+Star #8:
+	Mass: 9.55872e+23
+
+	Velocities: Vx = 2806.63 Vy = 17672.2
+
+	Coordinates: X = -4.10497e+11 Y = 6.44014e+10
+
+Star #9:
+	Mass: 1.07536e+24
+
+	Velocities: Vx = -12942.1 Vy = 18404.3
+
+	Coordinates: X = -2.15801e+11 Y = -1.50695e+11
+
+Star #10:
+	Mass: 1.19484e+24
+
+	Velocities: Vx = -10928.7 Vy = 9527.92
+
+	Coordinates: X = -4.15265e+11 Y = -4.76967e+11
+
+Star #11:
+	Mass: 1.31432e+24
+
+	Velocities: Vx = 1344.86 Vy = 23088.6
+
+	Coordinates: X = -2.48423e+11 Y = 1.57106e+10
+
+Star #12:
+	Mass: 1.43381e+24
+
+	Velocities: Vx = -3776.61 Vy = -13773.1
+
+	Coordinates: X = 6.28163e+11 Y = -1.7197e+11
+
+Star #13:
+	Mass: 1.55329e+24
+
+	Velocities: Vx = 1380.19 Vy = -22048
+
+	Coordinates: X = 2.71056e+11 Y = 1.70766e+10
+
+Star #14:
+	Mass: 1.67278e+24
+
+	Velocities: Vx = -23687.3 Vy = -292.985
+
+	Coordinates: X = 2.09172e+09 Y = -2.37388e+11
+
+Star #15:
+	Mass: 1.79226e+24
+
+	Velocities: Vx = -16225 Vy = 3185.86
+
+	Coordinates: X = -9.38809e+10 Y = -4.77256e+11
+
+Star #16:
+	Mass: 1.91174e+24
+
+	Velocities: Vx = 4899.18 Vy = 11089.8
+
+	Coordinates: X = -8.2783e+11 Y = 3.63828e+11
+
+Star #17:
+	Mass: 2.03123e+24
+
+	Velocities: Vx = 4819.19 Vy = 10560.2
+
+	Coordinates: X = -8.97998e+11 Y = 4.07856e+11
+
+Star #18:
+	Mass: 2.15071e+24
+
+	Velocities: Vx = 592.763 Vy = -11820
+
+	Coordinates: X = 9.46337e+11 Y = 4.82134e+10
+
+Star #19:
+	Mass: 2.2702e+24
+
+	Velocities: Vx = 1044.17 Vy = 22220.9
+
+	Coordinates: X = -2.70112e+11 Y = 7.68842e+09
+
+Star #20:
+	Mass: 2.38968e+24
+
+	Velocities: Vx = -1222.32 Vy = -11817.3
+
+	Coordinates: X = 9.35854e+11 Y = -9.60839e+10
+
+Star #21:
+	Mass: 2.50916e+24
+
+	Velocities: Vx = 3528.09 Vy = -12143.3
+
+	Coordinates: X = 7.94968e+11 Y = 2.30989e+11
+
+Star #22:
+	Mass: 2.62865e+24
+
+	Velocities: Vx = -4137.66 Vy = 11654.8
+
+	Coordinates: X = -8.17082e+11 Y = -2.92247e+11
+
+Star #23:
+	Mass: 2.74813e+24
+
+	Velocities: Vx = -10181.2 Vy = -5410.97
+
+	Coordinates: X = 4.69987e+11 Y = -8.81746e+11
+
+Star #24:
+	Mass: 2.86762e+24
+
+	Velocities: Vx = 19143.1 Vy = -3587.63
+
+	Coordinates: X = 6.18849e+10 Y = 3.43574e+11
+
+Star #25:
+	Mass: 2.9871e+24
+
+	Velocities: Vx = -11673.9 Vy = 13683.9
+
+	Coordinates: X = -3.1388e+11 Y = -2.67019e+11
+
+Star #26:
+	Mass: 3.10658e+24
+
+	Velocities: Vx = 14512.4 Vy = 6119.77
+
+	Coordinates: X = -2.09845e+11 Y = 4.93848e+11
+
+Star #27:
+	Mass: 3.04684e+25
+
+	Velocities: Vx = -205.033 Vy = 30249.5
+
+	Coordinates: X = -1.45921e+11 Y = -7.22594e+08
+
+Star #28:
+	Mass: 3.34555e+24
+
+	Velocities: Vx = 13171.6 Vy = 8699.4
+
+	Coordinates: X = -2.95259e+11 Y = 4.44655e+11
+
+Star #29:
+	Mass: 3.46504e+24
+
+	Velocities: Vx = -15464.8 Vy = 576.869
+
+	Coordinates: X = -2.06763e+10 Y = -5.54086e+11
+
+Star #30:
+	Mass: 3.58452e+24
+
+	Velocities: Vx = 28602 Vy = 3153.25
+
+	Coordinates: X = -1.83861e+10 Y = 1.59512e+11
+
+Star #31:
+	Mass: 2.58085e+25
+
+	Velocities: Vx = -13790.2 Vy = -36882.9
+
+	Coordinates: X = 7.95041e+10 Y = -3.00523e+10
+
+Star #32:
+	Mass: 1.25697e+26
+
+	Velocities: Vx = -64429.9 Vy = -29294.5
+
+	Coordinates: X = 9.30063e+09 Y = -2.4861e+10
+
+Star #33:
+	Mass: 3.94297e+24
+
+	Velocities: Vx = -5118.19 Vy = 26613.6
+
+	Coordinates: X = -1.78533e+11 Y = -3.37275e+10
+
+Star #34:
+	Mass: 4.06246e+24
+
+	Velocities: Vx = -22931.3 Vy = 18961.6
+
+	Coordinates: X = -9.63485e+10 Y = -1.15547e+11
+
+Star #35:
+	Mass: 4.18194e+24
+
+	Velocities: Vx = -2442.01 Vy = -16124.3
+
+	Coordinates: X = 4.93895e+11 Y = -7.51067e+10
+
+Star #36:
+	Mass: 4.30142e+24
+
+	Velocities: Vx = -13506.2 Vy = -6578
+
+	Coordinates: X = 2.56921e+11 Y = -5.31563e+11
+
+Star #37:
+	Mass: 4.42091e+24
+
+	Velocities: Vx = 9560.03 Vy = 6605.72
+
+	Coordinates: X = -5.60783e+11 Y = 8.07121e+11
+
+Star #38:
+	Mass: 4.54039e+24
+
+	Velocities: Vx = 1243.01 Vy = -22944.1
+
+	Coordinates: X = 2.5065e+11 Y = 1.34127e+10
+
+Star #39:
+	Mass: 6.26096e+25
+
+	Velocities: Vx = -15893.9 Vy = -27343.8
+
+	Coordinates: X = 1.14122e+11 Y = -6.67438e+10
+
+Star #40:
+	Mass: 1.4577e+25
+
+	Velocities: Vx = 29627.5 Vy = 11322.5
+
+	Coordinates: X = -4.7751e+10 Y = 1.23708e+11
+
+Star #41:
+	Mass: 4.89884e+24
+
+	Velocities: Vx = -2393.2 Vy = -23080.1
+
+	Coordinates: X = 2.44919e+11 Y = -2.54325e+10
+
+Star #42: DESTROYED
+
+Star #43:
+	Mass: 5.13781e+24
+
+	Velocities: Vx = 9810.78 Vy = 6615.61
+
+	Coordinates: X = -5.3067e+11 Y = 7.84621e+11
+
+Star #44: DESTROYED
+
+Star #45:
+	Mass: 5.37678e+24
+
+	Velocities: Vx = -19327.5 Vy = 12285.7
+
+	Coordinates: X = -1.36923e+11 Y = -2.13515e+11
+
+Star #46:
+	Mass: 5.49626e+24
+
+	Velocities: Vx = 16361.2 Vy = -10658.4
+
+	Coordinates: X = 1.89237e+11 Y = 2.92322e+11
+
+Star #47:
+	Mass: 5.61575e+24
+
+	Velocities: Vx = 8379.08 Vy = -11549.7
+
+	Coordinates: X = 5.26643e+11 Y = 3.83163e+11
+
+Star #48:
+	Mass: 5.73523e+24
+
+	Velocities: Vx = 16137.7 Vy = 16473
+
+	Coordinates: X = -1.79138e+11 Y = 1.75002e+11
+
+Star #49:
+	Mass: 5.85472e+24
+
+	Velocities: Vx = -13764.3 Vy = 5722.44
+
+	Coordinates: X = -2.30778e+11 Y = -5.5407e+11
+
+Star #50:
+	Mass: 5.9742e+24
+
+	Velocities: Vx = -4833.45 Vy = 10772.5
+
+	Coordinates: X = -8.6676e+11 Y = -3.91234e+11
+
+Star #51:
+	Mass: 6.09368e+24
+
+	Velocities: Vx = -7889.46 Vy = 11462.3
+
+	Coordinates: X = -5.66634e+11 Y = -3.91121e+11
+
+Star #52:
+	Mass: 6.21317e+24
+
+	Velocities: Vx = 11978.2 Vy = -3086.13
+
+	Coordinates: X = 1.98245e+11 Y = 8.25243e+11
+
+Star #53:
+	Mass: 3.14243e+25
+
+	Velocities: Vx = -34523.8 Vy = -407.567
+
+	Coordinates: X = 4.54782e+08 Y = -1.11088e+11
+
+Star #54:
+	Mass: 6.45214e+24
+
+	Velocities: Vx = -2399.14 Vy = 17207.4
+
+	Coordinates: X = -4.35521e+11 Y = -6.1153e+10
+
+Star #55:
+	Mass: 6.57162e+24
+
+	Velocities: Vx = -8893.57 Vy = 9305.21
+
+	Coordinates: X = -5.76203e+11 Y = -5.54911e+11
+
+Star #56:
+	Mass: 6.6911e+24
+
+	Velocities: Vx = 3638.74 Vy = 11696.8
+
+	Coordinates: X = -8.46154e+11 Y = 2.6129e+11
+
+Star #57:
+	Mass: 6.81059e+24
+
+	Velocities: Vx = 8832.65 Vy = 10399
+
+	Coordinates: X = -5.44661e+11 Y = 4.59836e+11
+
+Star #58:
+	Mass: 6.93007e+24
+
+	Velocities: Vx = 25693.7 Vy = -2203.03
+
+	Coordinates: X = 1.66487e+10 Y = 1.98862e+11
+
+Star #59:
+	Mass: 7.04956e+24
+
+	Velocities: Vx = -1173.32 Vy = -15587.9
+
+	Coordinates: X = 5.42052e+11 Y = -4.05207e+10
+
+Star #60:
+	Mass: 7.16904e+24
+
+	Velocities: Vx = -21017.6 Vy = -13225.7
+
+	Coordinates: X = 1.13905e+11 Y = -1.82172e+11
+
+Star #61:
+	Mass: 3.68011e+25
+
+	Velocities: Vx = 9148.38 Vy = 8333.87
+
+	Coordinates: X = -5.85977e+11 Y = 6.45496e+11
+
+Star #62:
+	Mass: 7.40801e+24
+
+	Velocities: Vx = -7339.82 Vy = -17592.4
+
+	Coordinates: X = 3.36676e+11 Y = -1.40907e+11
+
+Star #63:
+	Mass: 7.52749e+24
+
+	Velocities: Vx = 542.078 Vy = 14514.2
+
+	Coordinates: X = -6.28569e+11 Y = 1.85097e+10
+
+Star #64:
+	Mass: 7.64698e+24
+
+	Velocities: Vx = -10054.4 Vy = 8509.88
+
+	Coordinates: X = -5.00251e+11 Y = -5.89723e+11
+
+Star #65:
+	Mass: 2.25825e+25
+
+	Velocities: Vx = -6150.24 Vy = 12674.9
+
+	Coordinates: X = -6.07454e+11 Y = -2.94762e+11
+
+Star #66:
+	Mass: 7.88594e+24
+
+	Velocities: Vx = -13558 Vy = 1961.06
+
+	Coordinates: X = -1.01302e+11 Y = -7.0147e+11
+
+Star #67:
+	Mass: 8.00543e+24
+
+	Velocities: Vx = -3158.69 Vy = 12809.3
+
+	Coordinates: X = -7.40924e+11 Y = -1.84419e+11
+
+Star #68:
+	Mass: 8.12491e+24
+
+	Velocities: Vx = -40447.8 Vy = -2238.39
+
+	Coordinates: X = 3.25998e+09 Y = -8.06045e+10
+
+Star #69:
+	Mass: 8.2444e+24
+
+	Velocities: Vx = 2317.82 Vy = -18299.2
+
+	Coordinates: X = 3.86031e+11 Y = 4.95471e+10
+
+Star #70:
+	Mass: 8.36388e+24
+
+	Velocities: Vx = -12305.7 Vy = 4406.79
+
+	Coordinates: X = -2.61168e+11 Y = -7.31429e+11
+
+Star #71:
+	Mass: 8.48336e+24
+
+	Velocities: Vx = 24704.1 Vy = 8539.28
+
+	Coordinates: X = -6.40529e+10 Y = 1.83764e+11
+
+Star #72:
+	Mass: 8.60285e+24
+
+	Velocities: Vx = 21420.9 Vy = 9411.12
+
+	Coordinates: X = -9.82411e+10 Y = 2.22764e+11
+
+Star #73:
+	Mass: 8.72233e+24
+
+	Velocities: Vx = 4308.61 Vy = -14218.2
+
+	Coordinates: X = 5.74951e+11 Y = 1.74425e+11
+
+Star #74:
+	Mass: 8.84182e+24
+
+	Velocities: Vx = 10830.1 Vy = -4039.78
+
+	Coordinates: X = 3.30596e+11 Y = 9.28525e+11
+
+Star #75:
+	Mass: 8.9613e+24
+
+	Velocities: Vx = 6368.16 Vy = -23870.3
+
+	Coordinates: X = 2.09733e+11 Y = 5.63447e+10
+
+Star #76:
+	Mass: 9.08078e+24
+
+	Velocities: Vx = -11078.8 Vy = 8230.45
+
+	Coordinates: X = -4.13493e+11 Y = -5.59465e+11
+
+Star #77:
+	Mass: 1.60467e+26
+
+	Velocities: Vx = -36077 Vy = -39575.6
+
+	Coordinates: X = 3.31624e+10 Y = -3.17641e+10
+
+Star #78:
+	Mass: 9.31975e+24
+
+	Velocities: Vx = 1196.35 Vy = -13719.1
+
+	Coordinates: X = 6.96871e+11 Y = 6.13498e+10
+
+Star #79:
+	Mass: 9.43924e+24
+
+	Velocities: Vx = 5665.54 Vy = 14428.3
+
+	Coordinates: X = -5.15467e+11 Y = 2.00542e+11
+
+Star #80:
+	Mass: 9.55872e+24
+
+	Velocities: Vx = 8447.14 Vy = -29191
+
+	Coordinates: X = 1.37025e+11 Y = 4.0456e+10
+
+Star #81:
+	Mass: 9.6782e+24
+
+	Velocities: Vx = 2083.73 Vy = 12608.4
+
+	Coordinates: X = -8.02248e+11 Y = 1.31006e+11
+
+Star #82: DESTROYED
+
+Star #83:
+	Mass: 9.91717e+24
+
+	Velocities: Vx = 15909.8 Vy = 1797.22
+
+	Coordinates: X = -5.95631e+10 Y = 5.13948e+11
+
+Star #84:
+	Mass: 1.00367e+25
+
+	Velocities: Vx = 17516.6 Vy = -5654.99
+
+	Coordinates: X = 1.19583e+11 Y = 3.73379e+11
+
+Star #85:
+	Mass: 1.01561e+25
+
+	Velocities: Vx = -19001.6 Vy = 10666.3
+
+	Coordinates: X = -1.37955e+11 Y = -2.43722e+11
+
+Star #86:
+	Mass: 1.02756e+25
+
+	Velocities: Vx = -5630.44 Vy = 12831.4
+
+	Coordinates: X = -6.13385e+11 Y = -2.71952e+11
+
+Star #87:
+	Mass: 1.03951e+25
+
+	Velocities: Vx = -11208.2 Vy = -7709.95
+
+	Coordinates: X = 4.07621e+11 Y = -5.94519e+11
+
+Star #88:
+	Mass: 1.05146e+25
+
+	Velocities: Vx = 14572.3 Vy = -14195.1
+
+	Coordinates: X = 2.22588e+11 Y = 2.30257e+11
+
+Star #89:
+	Mass: 1.06341e+25
+
+	Velocities: Vx = 13480.5 Vy = 12233.3
+
+	Coordinates: X = -2.69991e+11 Y = 2.97183e+11
+
+Star #90:
+	Mass: 1.07536e+25
+
+	Velocities: Vx = 14006 Vy = -1487.79
+
+	Coordinates: X = 6.99917e+10 Y = 6.66062e+11
+
+Star #91:
+	Mass: 1.0873e+25
+
+	Velocities: Vx = -5066.31 Vy = -11579.5
+
+	Coordinates: X = 7.60065e+11 Y = -3.30199e+11
+
+Star #92:
+	Mass: 1.09925e+25
+
+	Velocities: Vx = -15485.8 Vy = -1734.78
+
+	Coordinates: X = 6.09849e+10 Y = -5.42579e+11
+
+Star #93:
+	Mass: 1.1112e+25
+
+	Velocities: Vx = 18950.6 Vy = 13505.4
+
+	Coordinates: X = -1.43285e+11 Y = 2.00225e+11
+
+Star #94:
+	Mass: 1.12315e+25
+
+	Velocities: Vx = -4696.89 Vy = -11869
+
+	Coordinates: X = 7.59648e+11 Y = -3.00626e+11
+
+Star #95:
+	Mass: 1.1351e+25
+
+	Velocities: Vx = 11821 Vy = 6931.24
+
+	Coordinates: X = -3.59491e+11 Y = 6.08913e+11
+
+Star #96:
+	Mass: 1.14705e+25
+
+	Velocities: Vx = -8640.25 Vy = 7708.04
+
+	Coordinates: X = -6.58711e+11 Y = -7.40667e+11
+
+Star #97:
+	Mass: 1.15899e+25
+
+	Velocities: Vx = 22367 Vy = -16536
+
+	Coordinates: X = 1.01231e+11 Y = 1.37843e+11
+
+Star #98:
+	Mass: 1.17094e+25
+
+	Velocities: Vx = -3686.9 Vy = -28374.3
+
+	Coordinates: X = 1.59928e+11 Y = -2.01585e+10
+
+Star #99:
+	Mass: 1.18289e+25
+
+	Velocities: Vx = -16713 Vy = -5025.7
+
+	Coordinates: X = 1.24918e+11 Y = -4.18313e+11
+
+Star #100:
+	Mass: 1.19484e+25
+
+	Velocities: Vx = 9769.72 Vy = -43588.7
+
+	Coordinates: X = 6.43279e+10 Y = 1.44172e+10
+
+Star #101:
+	Mass: 1.20679e+25
+
+	Velocities: Vx = 13266.3 Vy = 13028.7
+
+	Coordinates: X = -2.70127e+11 Y = 2.74808e+11
+
+Star #102:
+	Mass: 1.21874e+25
+
+	Velocities: Vx = 11210.6 Vy = -10965.2
+
+	Coordinates: X = 3.75333e+11 Y = 3.85588e+11
+
+Star #103:
+	Mass: 1.23069e+25
+
+	Velocities: Vx = 13317.5 Vy = -4021.51
+
+	Coordinates: X = 1.97216e+11 Y = 6.56748e+11
+
+Star #104:
+	Mass: 1.24263e+25
+
+	Velocities: Vx = -10519.3 Vy = 12067.6
+
+	Coordinates: X = -3.91096e+11 Y = -3.42842e+11
+
+Star #105:
+	Mass: 6.6911e+25
+
+	Velocities: Vx = -40034.3 Vy = 20461.5
+
+	Coordinates: X = -3.08039e+10 Y = -5.83098e+10
+
+Star #106: DESTROYED
+
+Star #107:
+	Mass: 1.27848e+25
+
+	Velocities: Vx = -5593.14 Vy = -16312.3
+
+	Coordinates: X = 4.22109e+11 Y = -1.45393e+11
+
+Star #108:
+	Mass: 1.29043e+25
+
+	Velocities: Vx = 2332 Vy = 13620.5
+
+	Coordinates: X = -6.85446e+11 Y = 1.15824e+11
+
+Star #109: DESTROYED
+
+Star #110:
+	Mass: 1.31432e+25
+
+	Velocities: Vx = -3651.11 Vy = -11918.2
+
+	Coordinates: X = 8.18588e+11 Y = -2.49836e+11
+
+Star #111:
+	Mass: 1.32627e+25
+
+	Velocities: Vx = -8960.67 Vy = 12292.1
+
+	Coordinates: X = -4.6524e+11 Y = -3.39446e+11
+
+Star #112: DESTROYED
+
+Star #113:
+	Mass: 1.35017e+25
+
+	Velocities: Vx = 17428.9 Vy = 8605.93
+
+	Coordinates: X = -1.55835e+11 Y = 3.14737e+11
+
+Star #114:
+	Mass: 1.36212e+25
+
+	Velocities: Vx = -14529.6 Vy = -5427.67
+
+	Coordinates: X = 1.92599e+11 Y = -5.18456e+11
+
+Star #115:
+	Mass: 1.37407e+25
+
+	Velocities: Vx = 11064.1 Vy = -3818.62
+
+	Coordinates: X = 3.24892e+11 Y = 9.19555e+11
+
+Star #116:
+	Mass: 3.76375e+25
+
+	Velocities: Vx = -11726.3 Vy = -5076.17
+
+	Coordinates: X = 3.24209e+11 Y = -7.46158e+11
+
+Star #117:
+	Mass: 1.39796e+25
+
+	Velocities: Vx = 11349.9 Vy = 7918.03
+
+	Coordinates: X = -3.98232e+11 Y = 5.68902e+11
+
+Star #118:
+	Mass: 1.40991e+25
+
+	Velocities: Vx = -31394.7 Vy = 12272.3
+
+	Coordinates: X = -4.37916e+10 Y = -1.08354e+11
+
+Star #119: DESTROYED
+
+Star #120:
+	Mass: 1.43381e+25
+
+	Velocities: Vx = 28347.3 Vy = -28566.2
+
+	Coordinates: X = 5.77227e+10 Y = 5.78977e+10
+
+Star #121:
+	Mass: 1.44576e+25
+
+	Velocities: Vx = -15576.4 Vy = 28802
+
+	Coordinates: X = -1.09811e+11 Y = -5.83968e+10
+
+Star #122:
+	Mass: 1.4577e+25
+
+	Velocities: Vx = -9196.09 Vy = 13585.3
+
+	Coordinates: X = -4.0825e+11 Y = -2.77539e+11
+
+Star #123:
+	Mass: 1.46965e+25
+
+	Velocities: Vx = 1483.17 Vy = 19197.9
+
+	Coordinates: X = -3.5819e+11 Y = 2.70869e+10
+
+Star #124: DESTROYED
+
+Star #125:
+	Mass: 1.49355e+25
+
+	Velocities: Vx = -21385.1 Vy = 10744.1
+
+	Coordinates: X = -1.051e+11 Y = -2.06591e+11
+
+Star #126:
+	Mass: 1.5055e+25
+
+	Velocities: Vx = 14679.7 Vy = -365.668
+
+	Coordinates: X = 1.43423e+10 Y = 6.15966e+11
+
+Star #127:
+	Mass: 1.51745e+25
+
+	Velocities: Vx = 4484.18 Vy = -13531.5
+
+	Coordinates: X = 6.19233e+11 Y = 2.06129e+11
+
+Star #128: DESTROYED
+
+Star #129:
+	Mass: 1.54134e+25
+
+	Velocities: Vx = 6049.99 Vy = 15451.2
+
+	Coordinates: X = -4.50577e+11 Y = 1.7503e+11
+
+Star #130:
+	Mass: 1.55329e+25
+
+	Velocities: Vx = -7957.28 Vy = 12689.3
+
+	Coordinates: X = -5.02208e+11 Y = -3.15644e+11
+
+Star #131:
+	Mass: 1.56524e+25
+
+	Velocities: Vx = 16075.2 Vy = 6590.72
+
+	Coordinates: X = -1.68491e+11 Y = 4.0705e+11
+
+Star #132:
+	Mass: 1.57719e+25
+
+	Velocities: Vx = -17159.6 Vy = -2366.7
+
+	Coordinates: X = 5.97985e+10 Y = -4.38857e+11
+
+Star #133:
+	Mass: 1.58914e+25
+
+	Velocities: Vx = -4255.63 Vy = 16745.5
+
+	Coordinates: X = -4.31881e+11 Y = -1.1002e+11
+
+Star #134:
+	Mass: 1.60109e+25
+
+	Velocities: Vx = -16731.5 Vy = 8586.22
+
+	Coordinates: X = -1.71812e+11 Y = -3.32303e+11
+
+Star #135: DESTROYED
+
+Star #136:
+	Mass: 1.62498e+25
+
+	Velocities: Vx = -5678.23 Vy = -14968.3
+
+	Coordinates: X = 4.83783e+11 Y = -1.82618e+11
+
+Star #137:
+	Mass: 1.63693e+25
+
+	Velocities: Vx = 11030.2 Vy = -13891.6
+
+	Coordinates: X = 3.29904e+11 Y = 2.63727e+11
+
+Star #138:
+	Mass: 1.64888e+25
+
+	Velocities: Vx = -11284 Vy = 4996.96
+
+	Coordinates: X = -3.51978e+11 Y = -7.97386e+11
+
+Star #139:
+	Mass: 1.66083e+25
+
+	Velocities: Vx = -17042.9 Vy = 7407.2
+
+	Coordinates: X = -1.5464e+11 Y = -3.55667e+11
+
+Star #140:
+	Mass: 1.67278e+25
+
+	Velocities: Vx = 14859.7 Vy = 5018.91
+
+	Coordinates: X = -1.73569e+11 Y = 5.10324e+11
+
+Star #141: DESTROYED
+
+Star #142:
+	Mass: 1.69667e+25
+
+	Velocities: Vx = 13417.9 Vy = 32880.9
+
+	Coordinates: X = -9.81468e+10 Y = 4.0362e+10
+
+Star #143:
+	Mass: 1.70862e+25
+
+	Velocities: Vx = -14086.7 Vy = -252.196
+
+	Coordinates: X = 1.22123e+10 Y = -6.68556e+11
+
+Star #144:
+	Mass: 1.72057e+25
+
+	Velocities: Vx = -8935.26 Vy = -20599.2
+
+	Coordinates: X = 2.41043e+11 Y = -1.03356e+11
+
+Star #145:
+	Mass: 1.73252e+25
+
+	Velocities: Vx = 23908.8 Vy = 715.667
+
+	Coordinates: X = -7.37403e+09 Y = 2.32184e+11
+
+Star #146:
+	Mass: 1.74447e+25
+
+	Velocities: Vx = 22043.7 Vy = -3957.19
+
+	Coordinates: X = 4.60683e+10 Y = 2.60905e+11
+
+Star #147:
+	Mass: 1.75641e+25
+
+	Velocities: Vx = 4985.36 Vy = -10636.2
+
+	Coordinates: X = 8.71581e+11 Y = 4.09902e+11
+
+Star #148:
+	Mass: 1.76836e+25
+
+	Velocities: Vx = -27854.6 Vy = 318.588
+
+	Coordinates: X = -2.82629e+09 Y = -1.70873e+11
+
+Star #149:
+	Mass: 1.78031e+25
+
+	Velocities: Vx = 15120 Vy = -15076.8
+
+	Coordinates: X = 2.04929e+11 Y = 2.06615e+11
+
+Star #150:
+	Mass: 1.79226e+25
+
+	Velocities: Vx = 13429.5 Vy = -1581.87
+
+	Coordinates: X = 8.38436e+10 Y = 7.21223e+11
+
+Star #151: DESTROYED
+
+Star #152: DESTROYED
+
+Star #153:
+	Mass: 1.82811e+25
+
+	Velocities: Vx = 10015.3 Vy = 23373
+
+	Coordinates: X = -1.89137e+11 Y = 8.15293e+10
+
+Star #154:
+	Mass: 1.84005e+25
+
+	Velocities: Vx = 8405.23 Vy = -13996.1
+
+	Coordinates: X = 4.19521e+11 Y = 2.58135e+11
+
+Star #155:
+	Mass: 1.852e+25
+
+	Velocities: Vx = -9424.26 Vy = 23944.6
+
+	Coordinates: X = -1.8762e+11 Y = -7.33639e+10
+
+Star #156:
+	Mass: 1.86395e+25
+
+	Velocities: Vx = -7219.28 Vy = -10106.3
+
+	Coordinates: X = 7.0103e+11 Y = -4.99748e+11
+
+Star #157:
+	Mass: 1.8759e+25
+
+	Velocities: Vx = -11468.2 Vy = -11068.6
+
+	Coordinates: X = 3.63018e+11 Y = -3.78168e+11
+
+Star #158:
+	Mass: 1.88785e+25
+
+	Velocities: Vx = 12717.2 Vy = -138.289
+
+	Coordinates: X = 8.3638e+09 Y = 8.22618e+11
+
+Star #159:
+	Mass: 1.8998e+25
+
+	Velocities: Vx = 16301.5 Vy = -6559.17
+
+	Coordinates: X = 1.60851e+11 Y = 3.99185e+11
+
+Star #160:
+	Mass: 1.91174e+25
+
+	Velocities: Vx = -12107.4 Vy = -3108.03
+
+	Coordinates: X = 2.12825e+11 Y = -8.2304e+11
+
+Star #161:
+	Mass: 1.92369e+25
+
+	Velocities: Vx = -5452.82 Vy = 10171
+
+	Coordinates: X = -8.77616e+11 Y = -4.73329e+11
+
+Star #162:
+	Mass: 1.93564e+25
+
+	Velocities: Vx = -13435.3 Vy = 3469.93
+
+	Coordinates: X = -1.72351e+11 Y = -6.68677e+11
+
+Star #163:
+	Mass: 1.94759e+25
+
+	Velocities: Vx = -1555.16 Vy = -28832.2
+
+	Coordinates: X = 1.58405e+11 Y = -8.65262e+09
+
+Star #164: DESTROYED
+
+Star #165:
+	Mass: 1.97149e+25
+
+	Velocities: Vx = -12292.6 Vy = -10197
+
+	Coordinates: X = 3.31549e+11 Y = -3.98507e+11
+
+Star #166:
+	Mass: 1.98343e+25
+
+	Velocities: Vx = -1138.76 Vy = 15989.2
+
+	Coordinates: X = -5.15327e+11 Y = -3.73087e+10
+
+Star #167: DESTROYED
+
+Star #168: DESTROYED
+
+Star #169:
+	Mass: 2.01928e+25
+
+	Velocities: Vx = 16641.3 Vy = 8592.84
+
+	Coordinates: X = -1.76281e+11 Y = 3.3437e+11
+
+Star #170:
+	Mass: 2.03123e+25
+
+	Velocities: Vx = -11568.9 Vy = 7676.1
+
+	Coordinates: X = -3.81736e+11 Y = -5.75873e+11
+
+Star #171:
+	Mass: 2.04318e+25
+
+	Velocities: Vx = -14504.9 Vy = -3885.09
+
+	Coordinates: X = 1.52793e+11 Y = -5.69366e+11
+
+Star #172:
+	Mass: 2.05512e+25
+
+	Velocities: Vx = -13858 Vy = 8429.73
+
+	Coordinates: X = -2.63502e+11 Y = -4.32012e+11
+
+Star #173:
+	Mass: 2.06707e+25
+
+	Velocities: Vx = 6475.36 Vy = 11902.8
+
+	Coordinates: X = -6.3606e+11 Y = 3.44766e+11
+
+Star #174:
+	Mass: 2.07902e+25
+
+	Velocities: Vx = -814.472 Vy = 11625.9
+
+	Coordinates: X = -9.73047e+11 Y = -7.08671e+10
+
+Star #175:
+	Mass: 2.09097e+25
+
+	Velocities: Vx = -5293.67 Vy = 12721.8
+
+	Coordinates: X = -6.43389e+11 Y = -2.704e+11
+
+Star #176:
+	Mass: 2.10292e+25
+
+	Velocities: Vx = -3734.8 Vy = 14269.1
+
+	Coordinates: X = -5.90158e+11 Y = -1.55585e+11
+
+Star #177:
+	Mass: 2.11487e+25
+
+	Velocities: Vx = 14060.7 Vy = 5254.89
+
+	Coordinates: X = -2.07232e+11 Y = 5.50781e+11
+
+Star #178:
+	Mass: 2.12682e+25
+
+	Velocities: Vx = -5375.79 Vy = -12370.8
+
+	Coordinates: X = 6.70608e+11 Y = -2.91469e+11
+
+Star #179:
+	Mass: 2.13876e+25
+
+	Velocities: Vx = -19436.1 Vy = 6077.42
+
+	Coordinates: X = -9.66162e+10 Y = -3.06073e+11
+
+Star #180:
+	Mass: 2.15071e+25
+
+	Velocities: Vx = 17905.7 Vy = 5234.6
+
+	Coordinates: X = -1.08389e+11 Y = 3.66186e+11
+
+Star #181:
+	Mass: 2.16266e+25
+
+	Velocities: Vx = -11443.6 Vy = 3342.03
+
+	Coordinates: X = -2.60601e+11 Y = -8.97836e+11
+
+Star #182:
+	Mass: 2.17461e+25
+
+	Velocities: Vx = -7007.36 Vy = 12494.1
+
+	Coordinates: X = -5.67016e+11 Y = -3.17836e+11
+
+Star #183:
+	Mass: 2.18656e+25
+
+	Velocities: Vx = -2891.28 Vy = 16391.5
+
+	Coordinates: X = -4.71823e+11 Y = -8.43314e+10
+
+Star #184:
+	Mass: 2.19851e+25
+
+	Velocities: Vx = 12040.9 Vy = -8641.18
+
+	Coordinates: X = 3.50816e+11 Y = 4.92404e+11
+
+Star #185:
+	Mass: 2.21045e+25
+
+	Velocities: Vx = 10397.6 Vy = -5692.14
+
+	Coordinates: X = 4.5878e+11 Y = 8.20483e+11
+
+Star #186:
+	Mass: 2.2224e+25
+
+	Velocities: Vx = -11305.1 Vy = -6451.6
+
+	Coordinates: X = 3.89227e+11 Y = -6.78931e+11
+
+Star #187:
+	Mass: 2.23435e+25
+
+	Velocities: Vx = 6914.6 Vy = -14270.1
+
+	Coordinates: X = 4.73691e+11 Y = 2.30659e+11
+
+Star #188:
+	Mass: 2.2463e+25
+
+	Velocities: Vx = 20086.1 Vy = -11454.9
+
+	Coordinates: X = 1.22785e+11 Y = 2.16638e+11
+
+Star #189:
+	Mass: 2.25825e+25
+
+	Velocities: Vx = 7914.1 Vy = 20383
+
+	Coordinates: X = -2.57866e+11 Y = 1.02228e+11
+
+Star #190:
+	Mass: 2.2702e+25
+
+	Velocities: Vx = -4517.21 Vy = -15556.4
+
+	Coordinates: X = 4.86436e+11 Y = -1.41406e+11
+
+Star #191:
+	Mass: 2.28214e+25
+
+	Velocities: Vx = -10471.7 Vy = -13960.3
+
+	Coordinates: X = 3.48874e+11 Y = -2.61578e+11
+
+Star #192:
+	Mass: 2.29409e+25
+
+	Velocities: Vx = 13199.4 Vy = -11277.7
+
+	Coordinates: X = 2.85703e+11 Y = 3.35342e+11
+
+Star #193:
+	Mass: 2.30604e+25
+
+	Velocities: Vx = 2787.65 Vy = -19619.8
+
+	Coordinates: X = 3.33761e+11 Y = 4.83961e+10
+
+Star #194:
+	Mass: 2.31799e+25
+
+	Velocities: Vx = 2396.93 Vy = -16359.4
+
+	Coordinates: X = 4.79711e+11 Y = 7.0705e+10
+
+Star #195:
+	Mass: 2.32994e+25
+
+	Velocities: Vx = 6225.66 Vy = 10719
+
+	Coordinates: X = -7.48009e+11 Y = 4.33014e+11
+
+Star #196:
+	Mass: 2.34189e+25
+
+	Velocities: Vx = 28434.3 Vy = -2698.23
+
+	Coordinates: X = 1.43377e+10 Y = 1.62053e+11
+
+Star #197:
+	Mass: 2.35383e+25
+
+	Velocities: Vx = 15789.1 Vy = -6088.37
+
+	Coordinates: X = 1.69995e+11 Y = 4.36493e+11
+
+Star #198:
+	Mass: 2.36578e+25
+
+	Velocities: Vx = 8519.49 Vy = 15867.7
+
+	Coordinates: X = -3.62773e+11 Y = 1.9376e+11
+
+Star #199: DESTROYED
+
+Star #200:
+	Mass: 2.38968e+25
+
+	Velocities: Vx = 6396.67 Vy = -11463.4
+
+	Coordinates: X = 6.71835e+11 Y = 3.75767e+11
+
+Star #201:
+	Mass: 2.40163e+25
+
+	Velocities: Vx = 4903.47 Vy = 11893.8
+
+	Coordinates: X = -7.42798e+11 Y = 3.04692e+11
+
+Star #202:
+	Mass: 2.41358e+25
+
+	Velocities: Vx = -931.369 Vy = 12310.5
+
+	Coordinates: X = -8.66795e+11 Y = -6.65159e+10
+
+Star #203:
+	Mass: 2.42553e+25
+
+	Velocities: Vx = -15592.3 Vy = -3090.83
+
+	Coordinates: X = 1.01571e+11 Y = -5.15916e+11
+
+Star #204:
+	Mass: 2.43747e+25
+
+	Velocities: Vx = -12977.1 Vy = -3071.71
+
+	Coordinates: X = 1.73737e+11 Y = -7.28117e+11
+
+Star #205:
+	Mass: 2.44942e+25
+
+	Velocities: Vx = -9415.83 Vy = 9464.23
+
+	Coordinates: X = -5.27572e+11 Y = -5.23817e+11
+
+Star #206:
+	Mass: 2.46137e+25
+
+	Velocities: Vx = -13455.5 Vy = -2379.6
+
+	Coordinates: X = 1.23772e+11 Y = -6.99257e+11
+
+Star #207:
+	Mass: 2.47332e+25
+
+	Velocities: Vx = 3784.3 Vy = 28446.4
+
+	Coordinates: X = -1.6049e+11 Y = 2.15015e+10
+
+Star #208:
+	Mass: 2.48527e+25
+
+	Velocities: Vx = -13446.2 Vy = 7462.88
+
+	Coordinates: X = -2.72666e+11 Y = -4.91858e+11
+
+Star #209:
+	Mass: 2.49722e+25
+
+	Velocities: Vx = -14256.5 Vy = -2429.8
+
+	Coordinates: X = 1.06658e+11 Y = -6.26088e+11
+
+Star #210: DESTROYED
+
+Star #211:
+	Mass: 2.52111e+25
+
+	Velocities: Vx = -26948 Vy = 19093.3
+
+	Coordinates: X = -7.15094e+10 Y = -9.89659e+10
+
+Star #212:
+	Mass: 2.53306e+25
+
+	Velocities: Vx = 10338.2 Vy = -8967.7
+
+	Coordinates: X = 4.63479e+11 Y = 5.3558e+11
+
+Star #213:
+	Mass: 2.54501e+25
+
+	Velocities: Vx = -5334.39 Vy = 13516.3
+
+	Coordinates: X = -5.85224e+11 Y = -2.30461e+11
+
+Star #214:
+	Mass: 2.55696e+25
+
+	Velocities: Vx = -12232.9 Vy = 2540.02
+
+	Coordinates: X = -1.71322e+11 Y = -8.40829e+11
+
+Star #215:
+	Mass: 2.56891e+25
+
+	Velocities: Vx = 15138.4 Vy = 6138
+
+	Coordinates: X = -1.88246e+11 Y = 4.6098e+11
+
+Star #216:
+	Mass: 2.58085e+25
+
+	Velocities: Vx = -11404.9 Vy = -7025.42
+
+	Coordinates: X = 3.88244e+11 Y = -6.30808e+11
+
+Star #217:
+	Mass: 2.5928e+25
+
+	Velocities: Vx = 17028.1 Vy = 30322.7
+
+	Coordinates: X = -9.63873e+10 Y = 5.42462e+10
+
+Star #218:
+	Mass: 2.60475e+25
+
+	Velocities: Vx = 8206.42 Vy = 22113.7
+
+	Coordinates: X = -2.24348e+11 Y = 8.35817e+10
+
+Star #219: DESTROYED
+
+Star #220:
+	Mass: 2.62865e+25
+
+	Velocities: Vx = 12164.2 Vy = 12430.1
+
+	Coordinates: X = -3.15716e+11 Y = 3.03614e+11
+
+Star #221:
+	Mass: 2.6406e+25
+
+	Velocities: Vx = 15585.1 Vy = 10307.6
+
+	Coordinates: X = -2.11412e+11 Y = 3.17411e+11
+
+Star #222:
+	Mass: 2.65254e+25
+
+	Velocities: Vx = -9317.48 Vy = -10550.4
+
+	Coordinates: X = 5.02498e+11 Y = -4.43037e+11
+
+Star #223:
+	Mass: 2.66449e+25
+
+	Velocities: Vx = -12496.9 Vy = 637.207
+
+	Coordinates: X = -4.21133e+10 Y = -8.479e+11
+
+Star #224: DESTROYED
+
+Star #225:
+	Mass: 2.68839e+25
+
+	Velocities: Vx = -13063.6 Vy = 5965.52
+
+	Coordinates: X = -2.66967e+11 Y = -5.8662e+11
+
+Star #226:
+	Mass: 2.70034e+25
+
+	Velocities: Vx = 9315.21 Vy = -15982.1
+
+	Coordinates: X = 3.3408e+11 Y = 1.97012e+11
+
+Star #227:
+	Mass: 2.71229e+25
+
+	Velocities: Vx = 20997.9 Vy = 4086.73
+
+	Coordinates: X = -5.61228e+10 Y = 2.85161e+11
+
+Star #228: DESTROYED
+
+Star #229:
+	Mass: 2.73618e+25
+
+	Velocities: Vx = 18682.8 Vy = 982.986
+
+	Coordinates: X = -2.22174e+10 Y = 3.79359e+11
+
+Star #230:
+	Mass: 2.74813e+25
+
+	Velocities: Vx = 7228.38 Vy = 20265.8
+
+	Coordinates: X = -2.73033e+11 Y = 9.54159e+10
+
+Star #231: DESTROYED
+
+Star #232:
+	Mass: 2.77203e+25
+
+	Velocities: Vx = -5903.13 Vy = 11887.1
+
+	Coordinates: X = -6.75687e+11 Y = -3.37501e+11
+
+Star #233:
+	Mass: 2.78398e+25
+
+	Velocities: Vx = 12123 Vy = -9477.92
+
+	Coordinates: X = 3.45387e+11 Y = 4.41767e+11
+
+Star #234:
+	Mass: 2.79593e+25
+
+	Velocities: Vx = -5425.83 Vy = 15150.5
+
+	Coordinates: X = -4.83913e+11 Y = -1.7384e+11
+
+Star #235:
+	Mass: 2.80787e+25
+
+	Velocities: Vx = 15300.5 Vy = -7053.5
+
+	Coordinates: X = 1.90519e+11 Y = 4.22229e+11
+
+Star #236:
+	Mass: 2.81982e+25
+
+	Velocities: Vx = -15285.8 Vy = -20574.7
+
+	Coordinates: X = 1.61236e+11 Y = -1.20674e+11
+
+Star #237:
+	Mass: 2.83177e+25
+
+	Velocities: Vx = 12288.2 Vy = -2791.4
+
+	Coordinates: X = 1.87098e+11 Y = 8.18509e+11
+
+Star #238:
+	Mass: 2.84372e+25
+
+	Velocities: Vx = -1635.5 Vy = 11789.9
+
+	Coordinates: X = -9.24377e+11 Y = -1.30866e+11
+
+Star #239:
+	Mass: 2.85567e+25
+
+	Velocities: Vx = -13067.2 Vy = -6412.98
+
+	Coordinates: X = 2.76558e+11 Y = -5.63415e+11
+
+Star #240:
+	Mass: 2.86762e+25
+
+	Velocities: Vx = 10976.2 Vy = 13443.3
+
+	Coordinates: X = -3.44304e+11 Y = 2.8057e+11
+
+Star #241:
+	Mass: 2.87956e+25
+
+	Velocities: Vx = -28360.3 Vy = -14621.3
+
+	Coordinates: X = 5.8992e+10 Y = -1.15981e+11
+
+Star #242:
+	Mass: 2.89151e+25
+
+	Velocities: Vx = -2036.39 Vy = 14973.5
+
+	Coordinates: X = -5.75237e+11 Y = -7.98183e+10
+
+Star #243:
+	Mass: 6.29681e+25
+
+	Velocities: Vx = 8605.26 Vy = -8497.39
+
+	Coordinates: X = 6.37378e+11 Y = 6.53316e+11
+
+Star #244:
+	Mass: 2.91541e+25
+
+	Velocities: Vx = 20492.3 Vy = 7681.04
+
+	Coordinates: X = -9.79772e+10 Y = 2.60327e+11
+
+Star #245:
+	Mass: 2.92736e+25
+
+	Velocities: Vx = -6097.95 Vy = 11045.6
+
+	Coordinates: X = -7.30116e+11 Y = -4.04029e+11
+
+Star #246:
+	Mass: 2.93931e+25
+
+	Velocities: Vx = 19461.4 Vy = -1092.85
+
+	Coordinates: X = 1.85849e+10 Y = 3.48349e+11
+
+Star #247: DESTROYED
+
+Star #248:
+	Mass: 2.9632e+25
+
+	Velocities: Vx = 3768.52 Vy = -11185
+
+	Coordinates: X = 9.01014e+11 Y = 3.05467e+11
+
+Star #249:
+	Mass: 2.97515e+25
+
+	Velocities: Vx = 11669.6 Vy = 1364.41
+
+	Coordinates: X = -1.13213e+11 Y = 9.55523e+11
+
+Star #250:
+	Mass: 2.9871e+25
+
+	Velocities: Vx = -10430.2 Vy = -7351.69
+
+	Coordinates: X = 4.72072e+11 Y = -6.67602e+11
+
+Star #251:
+	Mass: 2.99905e+25
+
+	Velocities: Vx = -2239.07 Vy = 11698.9
+
+	Coordinates: X = -9.24072e+11 Y = -1.78124e+11
+
+Star #252:
+	Mass: 3.011e+25
+
+	Velocities: Vx = 8584.96 Vy = -8564.74
+
+	Coordinates: X = 6.32376e+11 Y = 6.24265e+11
+
+Star #253:
+	Mass: 3.02295e+25
+
+	Velocities: Vx = 607.183 Vy = 14835.9
+
+	Coordinates: X = -6.01642e+11 Y = 2.39647e+10
+
+Star #254:
+	Mass: 3.03489e+25
+
+	Velocities: Vx = -12973.7 Vy = 13116.8
+
+	Coordinates: X = -2.7901e+11 Y = -2.74924e+11
+
+Star #255: DESTROYED
+
+Star #256:
+	Mass: 3.05879e+25
+
+	Velocities: Vx = -9473.91 Vy = -11911.7
+
+	Coordinates: X = 4.49219e+11 Y = -3.57534e+11
+
+Star #257:
+	Mass: 3.07074e+25
+
+	Velocities: Vx = 11833.8 Vy = 14811.6
+
+	Coordinates: X = -2.89696e+11 Y = 2.30977e+11
+
+Star #258:
+	Mass: 3.08269e+25
+
+	Velocities: Vx = 12252.4 Vy = -5307.15
+
+	Coordinates: X = 2.94687e+11 Y = 6.83257e+11
+
+Star #259:
+	Mass: 3.09464e+25
+
+	Velocities: Vx = -37368.7 Vy = 7256.23
+
+	Coordinates: X = -1.83034e+10 Y = -8.97975e+10
+
+Star #260: DESTROYED
+
+Star #261:
+	Mass: 3.11853e+25
+
+	Velocities: Vx = 9248.02 Vy = 7867.61
+
+	Coordinates: X = -5.83772e+11 Y = 6.78042e+11
+
+Star #262:
+	Mass: 3.13048e+25
+
+	Velocities: Vx = 9060.85 Vy = -13942.8
+
+	Coordinates: X = 4.05108e+11 Y = 2.61282e+11
+
+Star #263:
+	Mass: 3.14243e+25
+
+	Velocities: Vx = 6227.33 Vy = 10026.6
+
+	Coordinates: X = -8.1047e+11 Y = 5.01117e+11
+
+Star #264:
+	Mass: 3.15438e+25
+
+	Velocities: Vx = 9645.09 Vy = -7876.68
+
+	Coordinates: X = 5.4187e+11 Y = 6.63981e+11
+
+Star #265: DESTROYED
+
+Star #266: DESTROYED
+
+Star #267:
+	Mass: 3.19022e+25
+
+	Velocities: Vx = 9024.88 Vy = 11007.5
+
+	Coordinates: X = -5.07639e+11 Y = 4.14651e+11
+
+Star #268:
+	Mass: 3.20217e+25
+
+	Velocities: Vx = -7015.35 Vy = 9919.08
+
+	Coordinates: X = -7.36031e+11 Y = -5.22477e+11
+
+Star #269:
+	Mass: 3.21412e+25
+
+	Velocities: Vx = -9262.21 Vy = 15954.4
+
+	Coordinates: X = -3.38663e+11 Y = -1.96286e+11
+
+Star #270:
+	Mass: 3.22607e+25
+
+	Velocities: Vx = -4186.09 Vy = 12831.8
+
+	Coordinates: X = -6.91221e+11 Y = -2.27648e+11
+
+Star #271: DESTROYED
+
+Star #272:
+	Mass: 3.24996e+25
+
+	Velocities: Vx = -9562.91 Vy = 8917.45
+
+	Coordinates: X = -5.29067e+11 Y = -5.71413e+11
+
+Star #273:
+	Mass: 3.26191e+25
+
+	Velocities: Vx = -14363.4 Vy = -13058.3
+
+	Coordinates: X = 2.34939e+11 Y = -2.62581e+11
+
+Star #274:
+	Mass: 3.27386e+25
+
+	Velocities: Vx = 13851.8 Vy = -20180.9
+
+	Coordinates: X = 1.81869e+11 Y = 1.26467e+11
+
+Star #275:
+	Mass: 3.28581e+25
+
+	Velocities: Vx = 14518.5 Vy = -4304.37
+
+	Coordinates: X = 1.63445e+11 Y = 5.55267e+11
+
+Star #276:
+	Mass: 3.29776e+25
+
+	Velocities: Vx = -12237.7 Vy = 2918.73
+
+	Coordinates: X = -1.94223e+11 Y = -8.11665e+11
+
+Star #277:
+	Mass: 3.30971e+25
+
+	Velocities: Vx = -22137.9 Vy = 3429.23
+
+	Coordinates: X = -4.15208e+10 Y = -2.61741e+11
+
+Star #278:
+	Mass: 3.32166e+25
+
+	Velocities: Vx = -10701.1 Vy = 4298.05
+
+	Coordinates: X = -3.70579e+11 Y = -9.27077e+11
+
+Star #279:
+	Mass: 3.3336e+25
+
+	Velocities: Vx = -5943.74 Vy = 16676.2
+
+	Coordinates: X = -4.0029e+11 Y = -1.42653e+11
+
+Star #280: DESTROYED
+
+Star #281:
+	Mass: 3.3575e+25
+
+	Velocities: Vx = -10740.9 Vy = 12694.4
+
+	Coordinates: X = -3.68256e+11 Y = -3.11007e+11
+
+Star #282:
+	Mass: 3.36945e+25
+
+	Velocities: Vx = -3200.14 Vy = -21444.8
+
+	Coordinates: X = 2.78688e+11 Y = -4.20612e+10
+
+Star #283:
+	Mass: 3.3814e+25
+
+	Velocities: Vx = -2104.35 Vy = 13010.2
+
+	Coordinates: X = -7.53528e+11 Y = -1.23599e+11
+
+Star #284: DESTROYED
+
+Star #285:
+	Mass: 3.40529e+25
+
+	Velocities: Vx = -7072.08 Vy = -11842
+
+	Coordinates: X = 5.99406e+11 Y = -3.5752e+11
+
+Star #286:
+	Mass: 3.41724e+25
+
+	Velocities: Vx = -6037.24 Vy = 10581.2
+
+	Coordinates: X = -7.75147e+11 Y = -4.45903e+11
+
+Star #287:
+	Mass: 3.42919e+25
+
+	Velocities: Vx = -24502.4 Vy = 4051.03
+
+	Coordinates: X = -3.63476e+10 Y = -2.12314e+11
+
+Star #288:
+	Mass: 3.44114e+25
+
+	Velocities: Vx = 12202.4 Vy = 4489.81
+
+	Coordinates: X = -2.72547e+11 Y = 7.36224e+11
+
+Star #289:
+	Mass: 3.45309e+25
+
+	Velocities: Vx = 4233.21 Vy = -11545
+
+	Coordinates: X = 8.24008e+11 Y = 3.02289e+11
+
+Star #290:
+	Mass: 3.46504e+25
+
+	Velocities: Vx = 8624.12 Vy = -17041.3
+
+	Coordinates: X = 3.23823e+11 Y = 1.63019e+11
+
+Star #291:
+	Mass: 3.47698e+25
+
+	Velocities: Vx = -13077.3 Vy = -449.737
+
+	Coordinates: X = 2.7453e+10 Y = -7.75614e+11
+
+Star #292:
+	Mass: 3.48893e+25
+
+	Velocities: Vx = 13114.6 Vy = 5899.89
+
+	Coordinates: X = -2.65227e+11 Y = 5.84654e+11
+
+Star #293:
+	Mass: 3.50088e+25
+
+	Velocities: Vx = -1896.08 Vy = 21660.1
+
+	Coordinates: X = -2.81349e+11 Y = -2.3655e+10
+
+Star #294:
+	Mass: 3.51283e+25
+
+	Velocities: Vx = -27322.7 Vy = -9839.5
+
+	Coordinates: X = 5.25012e+10 Y = -1.47887e+11
+
+Star #295:
+	Mass: 3.52478e+25
+
+	Velocities: Vx = 12426.9 Vy = -969.788
+
+	Coordinates: X = 6.47229e+10 Y = 8.51721e+11
+
+Star #296:
+	Mass: 3.53673e+25
+
+	Velocities: Vx = -13952.7 Vy = -12688.2
+
+	Coordinates: X = 2.51722e+11 Y = -2.74917e+11
+
+Star #297:
+	Mass: 3.54867e+25
+
+	Velocities: Vx = 13106.8 Vy = -21950.4
+
+	Coordinates: X = 1.73706e+11 Y = 1.03537e+11
+
+Star #298:
+	Mass: 3.56062e+25
+
+	Velocities: Vx = 10287.4 Vy = -5716.2
+
+	Coordinates: X = 4.60466e+11 Y = 8.44245e+11
+
+Star #299:
+	Mass: 3.57257e+25
+
+	Velocities: Vx = 40176.6 Vy = -3300.26
+
+	Coordinates: X = 6.30713e+09 Y = 8.13973e+10
