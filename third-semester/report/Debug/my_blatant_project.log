@@ -1,12 +1,12 @@
 ﻿  MyForm.cpp
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\LR_7_2.h(361,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\LR_7_2.h(361,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(309,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(337,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(361,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(480,8): warning C4101: key2: неиспользованная локальная переменная
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(480,14): warning C4101: data2: неиспользованная локальная переменная
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(495,17): warning C4101: data3: неиспользованная локальная переменная
-C:\Users\Yakupso\source\repos\my_blatant_project\my_blatant_project\MyForm.h(495,11): warning C4101: key3: неиспользованная локальная переменная
+C:\Users\Yakupso\source\repos\my_blatant_project\report\LR_7_2.h(361,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Yakupso\source\repos\my_blatant_project\report\LR_7_2.h(361,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(453,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(481,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(505,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(622,7): warning C4101: key2: неиспользованная локальная переменная
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(622,13): warning C4101: data2: неиспользованная локальная переменная
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(640,16): warning C4101: data3: неиспользованная локальная переменная
+C:\Users\Yakupso\source\repos\my_blatant_project\report\MyForm.h(640,10): warning C4101: key3: неиспользованная локальная переменная
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  my_blatant_project.vcxproj -> C:\Users\Yakupso\source\repos\my_blatant_project\Debug\my_blatant_project.exe
+  my_blatant_project.vcxproj -> C:\Users\Yakupso\source\repos\my_blatant_project\report\Debug\my_blatant_project.exe

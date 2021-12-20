@@ -83,7 +83,7 @@ public:
     // Вставка после выбранного элемента
     void insert(T k, Node<T> *n) {
         Node<T> *ptr = node_exists(k);
-        if (ptr == NULL) {} 
+        if (ptr == NULL) {}
         else {
             if (node_exists(n->key) != NULL) {} 
             else {
@@ -135,13 +135,15 @@ public:
         if (head == NULL) {
             fout << "\nNo Nodes in Doubly Linked List";
         } else {
-            fout << endl << "\nDoubly Linked List Values : ";
+            fout << endl << "\nDoubly Linked List Values:\n";
             Node<T> *temp = head;
 
-            while (temp != NULL) {
+
+            while (temp->next != NULL) {
                 fout << "(" << temp->key << ": " << temp->data << ") <=> ";
                 temp = temp->next;
             }
+            fout << "(" << temp->key << ": " << temp->data << ")";
         }
         fout.close();
     }
@@ -226,13 +228,14 @@ public:
         if (head == NULL) {
             fout << "\nmyQueue is empty";
         } else {
-            fout << endl << "\nmyQueue Values: ";
+            fout << endl << "\nmyQueue Values:\n";
             Node<T> *temp = head;
 
-            while (temp != NULL) {
+            while (temp->next != NULL) {
                 fout << "(" << temp->key << ": " << temp->data << ") <=> ";
                 temp = temp->next;
             }
+            fout << "(" << temp->key << ": " << temp->data << ")";
         }
         fout.close();
     }
@@ -308,11 +311,12 @@ public:
         } 
         else {
             Node<T> *temp = head;
-            fout << endl << "\nmyStack Values: ";
-            while (temp != NULL) {
+            fout << endl << "\nmyStack Values:\n";
+            while (temp->next != NULL) {
                 fout << "(" << temp->key << ": " << temp->data << ") <=> ";
                 temp = temp->next;
             }
+            fout << "(" << temp->key << ": " << temp->data << ")";
     }
         fout.close();
     }

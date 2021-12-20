@@ -1,0 +1,34 @@
+  myblatantproject.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly my_blatant_project, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class myblatantproject.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.RichTextBox code_box : Public
+  Methods:
+    lr_7_1(): PrivateScope, Public, HideBySig
+    lr_7_2(): PrivateScope, Public, HideBySig
+    lr_8_1(): PrivateScope, Public, HideBySig
+    lr_8_2_list_string(ListDL<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > >*): PrivateScope, Public, HideBySig
+    lr_8_2_list_int(ListDL<int>*): PrivateScope, Public, HideBySig
+    lr_8_2_list_double(ListDL<double>*): PrivateScope, Public, HideBySig
+    lr_8_2_queue_string(myQueue<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > >*): PrivateScope, Public, HideBySig
+    lr_8_2_queue_int(myQueue<int>*): PrivateScope, Public, HideBySig
+    lr_8_2_queue_double(myQueue<double>*): PrivateScope, Public, HideBySig
+    lr_8_2_stack_string(myStack<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > >*): PrivateScope, Public, HideBySig
+    lr_8_2_stack_int(myStack<int>*): PrivateScope, Public, HideBySig
+    lr_8_2_stack_double(myStack<double>*): PrivateScope, Public, HideBySig
